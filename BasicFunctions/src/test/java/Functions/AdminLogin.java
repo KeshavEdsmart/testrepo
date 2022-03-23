@@ -28,6 +28,7 @@ public class AdminLogin {
 		wait.until(ExpectedConditions.visibilityOfElementLocated(By.id("idSIButton9"))).click();
 		wait.until(ExpectedConditions.visibilityOfElementLocated(By.id("idSIButton9"))).click();
 
+		System.out.println("print");
 		
 		
 		
